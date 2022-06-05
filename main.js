@@ -35,4 +35,4 @@ function product_of_primes(a, b) {
     return primes 
 }
 
-console.log(product_of_primes(2,100));
+console.log(product_of_primes(2,1000));
