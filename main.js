@@ -32,7 +32,7 @@ function product_of_primes(a, b) {
             }
         }
     }
-    return primes 
+    return primes; 
 }
 
 console.log(product_of_primes(2,1000));
